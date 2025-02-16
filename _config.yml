@@ -1,4 +1,5 @@
 title: Greg Haugan
-logo: /assets/img/1707418756313.jpg
+logo: <img src=https://raw.githubusercontent.com/glhaugan/glhaugan.github.io/refs/heads/assets/img/1707418756313.jpg>
+#/assets/img/1707418756313.jpg
 description: Economist, data scientist, and social science researcher.
 theme: jekyll-theme-minimal
