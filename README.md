@@ -3,9 +3,9 @@ MS, Economics, Universidad de Los Andes (Colombia), 2015
 BA, Economics and International Affairs, James Madison University (USA), 2008
 
 ### Work Experience
-Research Scientist, NORC at the University of Chicago, 2018 - Present
-Research Fellow, Inter-American Development Bank, 2016 - 2017
-Graduate Research Assistant, Universidad de Los Andes, 2015 - 2016
+#Research Scientist, NORC at the University of Chicago, 2018 - Present
+#Research Fellow, Inter-American Development Bank, 2016 - 2017
+#Graduate Research Assistant, Universidad de Los Andes, 2015 - 2016
 
 ### Projects
 Evaluation of LRI in Ghana
