@@ -3,7 +3,7 @@
 #### Technical Skills: Stata, R, SQL, ArcGIS
 
 ### Education
-- M.S., Economics	| Universidad de Los Andes - Colombia (_December 2015_)	 			        		
+- M.S., Economics	| Universidad de Los Andes (_December 2015_)	 			        		
 - B.A., Economics | James Madison University (_May 2008_)
 
 ### Work Experience
