@@ -1,4 +1,3 @@
-
 #### Technical Skills: Stata, R, SQL, ArcGIS
 
 ### Education
