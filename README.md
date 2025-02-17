@@ -1,11 +1,13 @@
+## Economist and Data Scientist
+
 #### Technical Skills: Stata, R, SQL, ArcGIS
 
 ### Education
-- M.S., Economics	| Universidad de Los Andes, Colombia (_December 2015_)	 			        		
-- B.A., Economics and International Affairs | James Madison University (_May 2008_)
+- M.S., Economics	| Universidad de Los Andes - Colombia (_December 2015_)	 			        		
+- B.A., Economics | James Madison University (_May 2008_)
 
 ### Work Experience
-- **Research Scientist, NORC at the University of Chicago (Jan 2018 - Present_)**
+- **Research Scientist, NORC at the University of Chicago (Jan 2018 - Present)**
 - **Research Fellow, Inter-American Development Bank (Aug 2016 - Dec 2017)**
 - **Graduate Research Assistant, Universidad de Los Andes (Jan 2015 - July 2016)**
 
