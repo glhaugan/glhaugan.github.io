@@ -13,7 +13,7 @@
 
 ### Projects
 - [**Evaluation of Littorals Regional Initiative in Ghana**](https://glhaugan.github.io/LRI/). Principal Investigator and Project Manager for an RCT of a violence mediation program in Northern Ghana.
-- **Evaluation of Land for Prosperity in Colombia**. Co-PI for a quasi-experimental evaluation of a land formalization program in Colombia.
+- [**Evaluation of Land for Prosperity in Colombia**](https://glhaugan.github.io/LfP/). Co-PI for a quasi-experimental evaluation of a land formalization program in Colombia.
 - **Collateral Consequences of Drug Arrests in NYC**. Lead Statistician for a study on how drug arrests affect New York City neighborhoods.
 - **Kenya Feed the Future**. Lead Statistician for a population survey on nutrition, agriculture, and poverty in Kenya.
 - **Millenium Challenge Corporation Ghana Power Compact Surveys**. Lead Statistician for household and enterprise surveys on electricity consumption in Accra, Ghana.
