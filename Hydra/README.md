@@ -17,9 +17,9 @@ I then compared the monthly trends in homicides for Berna-controlled areas to ot
 
 ![BernaTrend](/assets/img/BernaTrend.png)
 
-I was curious how this increased students' exposure to violence and whether increased exposure to violence impacted education outcomes. To do this, I counted the annual number of homicides within 250 meters for each public school in the city. 
+I was curious how this increased students' exposure to violence and whether increased exposure to violence impacted education outcomes. To do this, I counted the annual number of homicides within 250 meters for each public school in the city. I then used quasi-experimental difference-in-differences and instrumental variables strategies to estimate the effect of the extradition on exposure to violence, test scores, dropout, and teacher turnover.
 
 ### Result
-My findings suggest that Don Berna’s extradition caused an average of 1.2 more homicides within 250 meters of a school each year from 2009 to 2013, the four years immediately following the extradition. The results also show that each additional homicide within 250 meters of a school led to a 1.1 percent decline in math test scores, equivalent to 0.05 standard deviations.
+My findings suggest that Don Berna’s extradition caused an average of 1.2 more homicides within 250 meters of a school each year during the years immediately following the extradition. The results also show that each additional homicide within 250 meters of a school led to a 1.1 percent decline in math test scores, equivalent to 0.05 standard deviations.
 
 You can find the full paper [here](https://dx.doi.org/10.2139/ssrn.4880218). I presented results at the 2023 Meeting of the Latin American and Caribbean Economic Association. A research brief was published by the Cato Institute and the paper is currently under peer review at _Journal of Development Economics_.
