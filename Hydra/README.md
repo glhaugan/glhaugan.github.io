@@ -7,6 +7,7 @@ city’s criminal economy set off an internecine war for power that saw homicide
 
 ![HomicidesPer](/assets/img/HomicidesPer.png)
 
+
 ### My Work
 I identified the areas of the city controlled by Don Berna and studied the evolution of homicides before and after the extradition in the areas under his control and in those not under his control. The maps below suggest homicides increased much more in the Berna-controlled neighborhoods.
 
