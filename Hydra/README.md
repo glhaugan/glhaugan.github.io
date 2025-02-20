@@ -3,10 +3,9 @@ What happens when the leadership is severed from a highly consolidated, violent 
 
 ### Context
 In 2008, a major narcotics kingpin named Don Berna was extradited from Colombia to the United States. In his stronghold of Medellin, the resulting power vacuum in the
-city’s criminal economy set off an internecine war for power that saw homicide rates in the city double, before organized crime governance structures finally re-consolidated and violence
-returned to pre-extradition levels.
+city’s criminal economy set off an internecine war for power that saw homicide rates in the city double, before organized crime governance structures finally re-consolidated and violence returned to pre-extradition levels.
 
-![HomicidesPer](/assets/img/HommicidesPer.png)
+![HomicidesPer](/assets/img/HomicidesPer.png)
 
 ### My Work
 I identified the areas of the city controlled by Don Berna and studied the evolution of homicides before and after the extradition in the areas under his control and in those not under his control. The maps below suggest homicides increased much more in the Berna-controlled neighborhoods.
