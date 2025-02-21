@@ -1,4 +1,6 @@
 # Evaluation of Littorals Regional Initiative in Ghana
+#### Highlighted Skills: Research design, survey design, causal inference, mixed methods research, project management
+
 Randomized control trial (RCT) of a violence mediation program in Northern Ghana.
 
 ### Context
