@@ -1,4 +1,6 @@
 # Evaluation of Land for Prosperity in Colombia
+#### Highlighted Skills: Research design, survey design, causal inference, mixed methods research, project management
+
 Quasi-experimental evaluation of a land formalization program in Colombia.
 
 ### Context
