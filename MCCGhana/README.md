@@ -1,9 +1,10 @@
 # Millenium Challenge Corporation Ghana Power Compact Surveys
-What happens when the leadership is severed from a highly consolidated, violent mafia organization? If it increases violence, are the consequences confined to gang-affiliated individuals, or are there costs for society as a whole?
+Leading a survey of businesses in Accra, Ghana to understand their electricity consumption and how the country's electric grid strangles economic growth.
 
 ### Context
+Costs in Ghana's power sector utilities run higher than their revenue, making it difficult for them to maintain and improve their infrastructure and resulting in an unreliable power grid that is an impediment to economic growth. The $498 million Ghana Power Compact aims to improve the quality and reliability of power distribution systems and improve access to legal connections for micro, small, and medium-sized businesses.
 
-
+### My Work
 
 - Step 1. Use business census to count enterprises per locality
 - Step 2. Link locality-level enterprise counts to shapefiles and map the localities.
@@ -13,5 +14,3 @@ What happens when the leadership is severed from a highly consolidated, violent 
 - Step 4. Step 4. Use nighttime light intensity raster data to estimate the distribution of enterprises within the locality, and obtain an estimate of the number of enterprises per EA.
 <iframe src="/assets/img/E EA Map.html" height="600px" width="100%" style="border:none;"></iframe>
 ![predictedbusinesses](/assets/img/predictedbusinesses.emf)
-
-
