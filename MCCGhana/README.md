@@ -1,4 +1,6 @@
 # Millenium Challenge Corporation Ghana Power Compact Surveys
+#### Highlighted Skills: Sampling design, problem solving, R, GIS
+
 Leading a survey of businesses in Accra, Ghana to understand their electricity consumption and how the country's electric grid strangles economic growth.
 
 ### Context
