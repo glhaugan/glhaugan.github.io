@@ -12,5 +12,10 @@ Costs in Ghana's power sector utilities run higher than their revenue, making it
 - Step 3. Map the localities on top of Open Street Maps major roads, and use the roads to segment the localities.
 ![sementlocalities](/assets/img/sementlocalities.png)
 - Step 4. Step 4. Use nighttime light intensity raster data to estimate the distribution of enterprises within the locality, and obtain an estimate of the number of enterprises per EA.
+
+### Result
+The process yielded a viable sample frame, with sampling weights assigned to each census block that we were able to use for sampling. You can see the full sampling frame in the map below. Clicking on a block will tell you more about it, including the number of estimated businesses. The GridWatch points on the map are grid monitoring stations that were used to stratify the sample.
 <iframe src="/assets/img/E EA Map.html" height="600px" width="100%" style="border:none;"></iframe>
-![predictedbusinesses](/assets/img/predictedbusinesses.emf)
+
+Field teams visited each of the blocks and listed all businesses. As the graph below shows, the process for estimating the number of businesses did an excellent job of predicting the actual number that were found by the field teams.
+![predictedbusinesses](/assets/img/predictedbusinesses.png)
