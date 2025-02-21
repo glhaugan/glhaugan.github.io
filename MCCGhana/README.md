@@ -1,8 +1,17 @@
-# Beheading a Hydra: Kingpin Extradition, Homicides, Education Outcomes, and the End of Medellin’s Pax Mafiosa
+# Millenium Challenge Corporation Ghana Power Compact Surveys
 What happens when the leadership is severed from a highly consolidated, violent mafia organization? If it increases violence, are the consequences confined to gang-affiliated individuals, or are there costs for society as a whole?
 
 ### Context
-In 2008, a major narcotics kingpin named Don Berna was extradited from Colombia to the United States. In his stronghold of Medellin, the resulting power vacuum in the
-city’s criminal economy set off an internecine war for power that saw homicide rates in the city double, before organized crime governance structures finally re-consolidated and violence returned to pre-extradition levels.
 
+
+
+- Step 1. Use business census to count enterprises per locality
+- Step 2. Link locality-level enterprise counts to shapefiles and map the localities.
 <iframe src="/assets/img/map1_gss_data.html" height="600px" width="100%" style="border:none;"></iframe>
+- Step 3. Map the localities on top of Open Street Maps major roads, and use the roads to segment the localities.
+![sementlocalities](/assets/img/sementlocalities.png)
+- Step 4. Step 4. Use nighttime light intensity raster data to estimate the distribution of enterprises within the locality, and obtain an estimate of the number of enterprises per EA.
+<iframe src="/assets/img/E EA Map.html" height="600px" width="100%" style="border:none;"></iframe>
+![predictedbusinesses](/assets/img/predictedbusinesses.emf)
+
+
