@@ -1,5 +1,5 @@
 # Beheading a Hydra: Kingpin Extradition, Homicides, Education Outcomes, and the End of Medellin’s Pax Mafiosa
-#### Highlighted Skills: Causal inference, R, GIS and geospatial analysis
+#### Highlighted Skills: Causal inference, quantitative research, R, GIS and geospatial analysis
 
 What happens when the leadership is severed from a highly consolidated, violent mafia organization? If it increases violence, are the consequences confined to gang-affiliated individuals, or are there costs for society as a whole?
 
