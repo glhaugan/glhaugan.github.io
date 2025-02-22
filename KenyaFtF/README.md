@@ -21,7 +21,7 @@ My team huddled to discuss how we should approach this - should we push back on 
 ### My Work
 I studied the tables and began noticing patterns. While they were complicated and there was no existing program to automate their production, I began to see the how such a program could be written.
 
-I wrote a program called ftftable in Stata to handle all of the analysis and table production. Rather than calculating each cell of each table in Stata line by line and manually populating each cell individually, my program allowed our analysts to handle each table in a single line of code, which performed all the analysis for each table and produced a fully formatted table that could simply be copied and pasted into the report. The analyst would simply need to write something like the following for each table:
+I wrote a program called **ftftable** in Stata to handle all of the analysis and table production. Rather than calculating each cell of each table in Stata line by line and manually populating each cell individually, my program allowed our analysts to handle each table in a single line of code, which performed all the analysis for each table and produced a fully formatted table that could simply be copied and pasted into the report. The analyst would just need to write something like the following for each table:
 
 ```bash
 ftftable whn_mdd_w , ///
@@ -31,7 +31,7 @@ ftftable whn_mdd_w , ///
 
 
 ### Result
-With my program, each table only took about five minutes to calculate and copy into the report, reulting in time savings of over 95%. The deliverable was now manageable within the original budget. You can see how I wrote the program [here](https://github.com/glhaugan/glhaugan.github.io/blob/1879763672a22a8b9d95b9992bb41f7cf6a3d3de/KenyaFtF/ftftable.do).
+With my program, each table only took about five minutes to calculate and copy into the report, reulting in time savings of over 95%. The deliverable was then manageable within the original budget. You can see how I wrote the program [here](https://github.com/glhaugan/glhaugan.github.io/blob/1879763672a22a8b9d95b9992bb41f7cf6a3d3de/KenyaFtF/ftftable.do).
 
 ```bash
 
