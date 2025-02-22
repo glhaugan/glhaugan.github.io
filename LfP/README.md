@@ -14,4 +14,4 @@ As co-Principal Investigator (co-PI), I conducted focus groups and in-depth inte
 I collected administrative and GIS data on communities and performed statistical matching in R to pair treatment communities with statistically similar comparison communities. I developed contingency plans for conducting fieldwork in conflict zones during a global pandemic, and oversaw baseline household surveys in April 2021 with 3,000 rural households, measuring outcomes related to perceptions of tenure security, agricultural productivity, illicit crop cultivation, and conflict. 
 
 ### Result
-After the baseline analysis, I led a workshop with key stakeholders, presenting results and recommendations to improve program rollout.
+After the baseline analysis, I led a workshop with key stakeholders, presenting results and recommendations to improve program rollout. You can find our final report [here](https://www.norc.org/content/dam/norc-org/pdf2023/cel-colombia-land-baseline-report.pdf).
