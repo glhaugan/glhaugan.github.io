@@ -31,7 +31,7 @@ ftftable whn_mdd_w , ///
 
 
 ### Result
-With my program, each table only took about five minutes to calculate and copy into the report, reulting in time savings of over 95%. The deliverable was now manageable within the original budget. 
+With my program, each table only took about five minutes to calculate and copy into the report, reulting in time savings of over 95%. The deliverable was now manageable within the original budget. You can see how I wrote the program [here](https://github.com/glhaugan/glhaugan.github.io/blob/1879763672a22a8b9d95b9992bb41f7cf6a3d3de/KenyaFtF/ftftable.do).
 
 ```bash
 
