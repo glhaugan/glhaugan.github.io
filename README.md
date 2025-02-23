@@ -1,6 +1,7 @@
 ## Mixed Methods Researcher and Data Scientist
 
 #### Technical Skills: Stata, R, SQL, ArcGIS
+**[LinkedIn](https://www.linkedin.com/in/greg-haugan/)**
 
 ### Education
 - M.S., Economics	| Universidad de Los Andes (_December 2015_)	 			        		
