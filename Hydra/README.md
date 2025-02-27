@@ -25,5 +25,5 @@ My findings suggest that Don Berna’s extradition caused an average of 1.2 more
 You can find the full paper [here](https://dx.doi.org/10.2139/ssrn.4880218). I presented results at the 2023 Meeting of the Latin American and Caribbean Economic Association. A [research brief](https://www.cato.org/research-briefs-economic-policy/beheading-hydra-kingpin-extradition-homicides-education-outcomes) was published by the Cato Institute and the paper is currently under peer review at _Journal of Development Economics_.
 
 ### Code
-Please see the [repository](https://github.com/glhaugan/Hydra) for my code for this project. Due to the sensitive nature of the student- and teacher-level data, I am not able to make all of my data publicly available, but I have put together a school-level dataset and R script to demonstrate some of my R skills. I originally programmed this work in Stata, and my Stata do-files are also found in the repository.
+Please see the [repository](https://github.com/glhaugan/Beheading-a-Hydra) for my code for this project. Due to the sensitive nature of the student- and teacher-level data, I am not able to make all of my data publicly available, but I have put together a school-level dataset and R script to demonstrate some of my R skills. I originally programmed this work in Stata, and my Stata do-files are also found in the repository.
 
