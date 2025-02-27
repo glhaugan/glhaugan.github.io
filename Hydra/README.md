@@ -11,15 +11,11 @@ city’s criminal economy set off an internecine war for power that saw homicide
 
 
 ### My Work
-I identified the areas of the city controlled by Don Berna and studied the evolution of homicides before and after the extradition in the areas under his control and in those not under his control. The maps below suggest homicides increased much more in the Berna-controlled neighborhoods.
-
-![BernaMap](/assets/img/BernaMap.png)
-
-I then compared the monthly trends in homicides for Berna-controlled areas to other other areas. As you can see, the trends run parallel right up until the extradition, at which point homicides spike much more in the Berna-controlled areas.
+I identified the areas of the city controlled by Don Berna and studied the evolution of homicides before and after the extradition in the areas under his control and in those not under his control. I compared the monthly trends in homicides for Berna-controlled areas to other other areas. As you can see, the trends run parallel right up until the extradition, at which point homicides spike much more in the Berna-controlled areas.
 
 ![BernaTrend](/assets/img/BernaTrend.png)
 
-I was curious how this increased students' exposure to violence and whether increased exposure to violence impacted education outcomes. To do this, I counted the annual number of homicides within 250 meters for each public school in the city. The map below shows homicides and schools for 2007 and 2010, and you can verify that homicide counts are correct by clicking on any school and checking against the homicides within its 250m buffer. I then used quasi-experimental difference-in-differences and instrumental variables strategies to estimate the effect of the extradition on exposure to violence, test scores, dropout, and teacher turnover.
+I was curious how this increased students' exposure to violence and whether increased exposure to violence impacted education outcomes. To do this, I mapped homicides and schools, and wrote a program to count the annual number of homicides within 250 meters of each public school in the city. The map below shows homicides and schools for 2007 and 2010, and you can verify that homicide counts are correct by clicking on any school and checking against the homicides within its 250m buffer. I then used quasi-experimental difference-in-differences and instrumental variables strategies to estimate the effect of the extradition on exposure to violence, test scores, dropout, and teacher turnover.
 
 <iframe src="/assets/img/MedellinMap.html" height="600px" width="100%" style="border:none;"></iframe>
 
