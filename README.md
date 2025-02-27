@@ -1,5 +1,4 @@
 ## Mixed Methods Researcher and Data Scientist
-I apply quantitative analytics, mixed methods research, and lead surveys to answer the research questions of organizations with multinational operations.
 
 #### Technical Skills: Stata, R, SQL, ArcGIS
 **[LinkedIn](https://www.linkedin.com/in/greg-haugan/)**
