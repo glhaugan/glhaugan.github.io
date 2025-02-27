@@ -18,7 +18,7 @@ I identified the areas of the city controlled by Don Berna and studied the evolu
 I was curious how this increased students' exposure to violence and whether increased exposure to violence impacted education outcomes. To do this, I mapped homicides and schools, and wrote a program to count the annual number of homicides within 250 meters of each public school in the city. The map below shows homicides and schools for 2007 and 2010, and you can verify that homicide counts are correct by clicking on any school and checking against the homicides within its 250m buffer.
 
 <iframe src="/assets/img/MedellinMap.html" height="600px" width="100%" style="border:none;"></iframe>
-<p>
+
 I then used quasi-experimental difference-in-differences and instrumental variables strategies to estimate the effect of the extradition on exposure to violence, test scores, dropout, and teacher turnover.
   
 ### Result
