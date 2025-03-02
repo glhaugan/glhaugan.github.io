@@ -24,11 +24,12 @@ I studied the tables and began noticing patterns. While they were complicated an
 I wrote a program called **ftftable** in Stata (and later in R) to handle all of the analysis and table production. Rather than calculating each cell of each table in Stata line by line and manually populating each cell individually, my program allowed our analysts to handle each table in a single line of code, which performed all the analysis for each table and produced a fully formatted table that could simply be copied and pasted into the report. The analyst would just need to write something like the following for each table:
 
 ```bash
-ftftable whn_mdd_w , ///
-  disaggregates("agegrp edulevel2 pregnant genhhtype awiquint poor190") ///
-  tablename("Table_8.2.1") rounddecimals(1)
+ftftable(data, oucome = "outcome", disaggregates = c("Age", "Education" , 
+              "PregnancyStatus" , "GenderedHouseholdType" , "PovertyStatus" , 
+              "WealthQuintile"), col_var = "Region", decimals=3)
 ```
 
+In other words, they would just need to tell the command what dataset (and survey design) they are using, specify the outcome variable, a list of variables to disaggregate by, optionally specify an additional disaggregate variable for the columns, and the number of decimals to round to.
 
 ### Result
 With my program, each table only took about five minutes to calculate and copy into the report, resulting in time savings of over 95%, and allowing the team to complete the work within budget. Overall, I estimate this resulted in cost savings equal to around 10% of our labor budget.
