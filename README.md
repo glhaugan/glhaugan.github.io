@@ -1,4 +1,4 @@
-## Mixed Methods Researcher and Data Scientist
+## Quantitative Researcher and Data Scientist
 
 #### Technical Skills: Stata, R, SQL, ArcGIS
 **[LinkedIn](https://www.linkedin.com/in/greg-haugan/)**
